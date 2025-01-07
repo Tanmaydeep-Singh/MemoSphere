@@ -144,4 +144,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ---
 
+<<<<<<< HEAD
 **Happy Note-Taking and Planning with MemoSphere!**
+=======
+**Happy Note-Taking and Planning with MemoSphere!**
+>>>>>>> 50684b2867f0562a0487b0be66c970ce96e2ecdc
